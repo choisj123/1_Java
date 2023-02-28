@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/00_testProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01_variable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02_operator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_control" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_control_practice_정답" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_array_practice_정답" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05_array2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_OOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_ObjectArray_Homework2_최수진" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_ObjectArray_Homework_최수진" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_objectArray" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08_Inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09_Polymorphism" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10_Exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11_Collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12_IO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13_network" vcs="Git" />
+  </component>
+</project>
